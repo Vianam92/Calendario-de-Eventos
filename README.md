@@ -1,6 +1,6 @@
-# Calendario-de-Eventos
+# Calendario de Eventos
 
-Este es un proyecto realizado para aprender Javascript.
+Este es un proyecto realizado para prácticar Javascript.
 
 Utilice:
 - LocalStorage
