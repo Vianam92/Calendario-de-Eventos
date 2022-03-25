@@ -68,7 +68,8 @@ function handleBtnDelete(ev) {
 
 function eventsBtn() {
   const btnDelete = document.querySelectorAll(".btn-delete");
-  btnDelete.forEach((btn) => btn.addEventListener("click", handleBtnDelete));
+  btnDelete.forEach((btn) => {
+    btn.addEventListener("click", handleBtnDelete)});
 }
 
 btn.addEventListener("click", addEvent);
